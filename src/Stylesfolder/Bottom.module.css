@@ -1,0 +1,23 @@
+.Bottom_main_div{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #1099EE;
+    height: max-content;
+   
+    margin-top: 100px;
+    padding-bottom: 20px;
+    justify-content: space-between;
+}
+.Bottom_main_div>div{
+    width: 50%;
+    /* min-width: 300px; */
+    margin:auto;
+    height: 100%;
+}
+@media screen and (max-width:600px) {
+    .Bottom_main_div>div{
+        width: 100%;
+        /* gap:20px */
+    }
+}

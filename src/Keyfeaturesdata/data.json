@@ -1,0 +1,33 @@
+{
+    "data":[
+        {
+            "title":"1.Forex",
+            "content_bold":"Trade major, minor and exotic currency pairs",
+        "content":"With a daily trading volume of over $5 trillion, it is an exciting place for traders to participate in buying and selling currencies. The high liquidity of the forex market provides traders with the ability to easily enter and exit positions, which can help to reduce the risk of losses and increase the potential for profits.",
+        "imageoflogo":"https://www.pngkey.com/png/full/252-2523795_men-with-laptop-png.png"
+        },
+        {
+            "title":"2. Indices",
+            "content_bold":"Capture Your Next Opportunity with the Popular Stock Indices",
+        "content":"You have access to some of the largest and most well-known companies in the business. Traders often choose to explore opportunities in the index market because it provides them with the potential to benefit from multiple advantages in a single trade.",
+        "imageoflogo":"https://www.paradisosolutions.com/blog/wp-content/uploads/2018/11/corporate-woman-against-white-background-using-laptop-short.png"
+        },
+        {
+            "title":"3. Metals",
+            "content_bold":"Discover potential profit opportunities in the metals market",
+        "content":"Find your next opportunity in one of the most traded markets in the world – precious metals. Available on all of our account types, when you trade gold and silver with us, you trade them against the price of the US Dollar.",
+        "imageoflogo":"https://www.freeiconspng.com/thumbs/gold-bar-png/gold-bars-png-4.png"
+        },{
+            "title":"4. Cryptocurrencies",
+            "content_bold":"Invest in the Future of Crypto",
+        "content":"Take advantage of the explosive growth in the cryptocurrency market with our secure and user-friendly trading platform. Buy and sell top digital currencies, including Bitcoin, Ethereum, and Litecoin, and stay up-to-date with the latest market trends and analysis to maximize your profits.",
+        "imageoflogo":"https://ormeuscoin.com/wp-content/uploads/2017/08/Coins-3.png"
+        },
+        {
+            "title":"5. Energies",
+            "content_bold":"Diversify Your Portfolio with Energies",
+        "content":"Explore a world of trading opportunities with our spot commodity platform. Trade popular commodities such as gold, silver, and crude oil, and take advantage of price movements to increase your profits. Our user-friendly platform makes it easy to stay informed with real-time quotes and analysis, so you can make informed decisions and trade with confidence.",
+        "imageoflogo":"https://www.pngall.com/wp-content/uploads/13/Power-Plant-No-Background.png"
+        }
+    ]
+}

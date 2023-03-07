@@ -1,0 +1,46 @@
+.main_table th{
+ text-align: left;
+ color:#1099EE;
+}
+.main_table td, .main_table th{
+    border:1px solid #E3F4FF;
+    padding:5px;
+}
+.main_table tr:nth-child(even){
+    background-color:#F1FAFF;
+}
+.main_table tr td:nth-child(3){
+    color:red;
+}
+.main_table tr:hover{
+    background-color: #ddd;
+    cursor: pointer;
+}
+.main_table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width:90%;
+    margin:auto;
+    position: relative;
+}
+@media screen and (max-width:500px) {
+    .main_table{
+        overflow:scroll;
+        width:95%;
+        scroll-behavior: smooth;
+    }
+    table {
+        display: flex;  
+        flex-wrap: nowrap;
+        justify-content: center;
+      }
+    
+      table tr {
+        display: flex;
+        flex-direction: column;
+      }
+    
+      table td {
+        white-space: nowrap;
+      }
+}
